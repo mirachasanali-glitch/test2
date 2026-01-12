@@ -5,8 +5,9 @@
     <title>AirPods Page</title>
 </head>
 <body>
-    <main>
-        <img src="images/advertisement.jpg" alt="Advertisement" loading="eager">
+    <main>  <!-- advertisment afbeelding --> 
+        <img src="images/advertisement.jpg" alt="Advertisement" loading="eager" 
+        <!-- AirPods afbeelding -->
         <img src="images/AirPods.jpg" alt="AirPods" loading="eager">
         <p>AirPods</p>
         <p>€4,99</p>
